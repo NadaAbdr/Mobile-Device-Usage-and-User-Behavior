@@ -25,6 +25,11 @@ This project aims to analyze mobile phone usage data to understand user behavior
 - Scikit-learn
 - Matplotlib / Seaborn
 
+🧠 Project Goals:
+Understand the impact of excessive phone usage on daily life and well-being.
+Provide insights and recommendations to reduce digital overuse.
+Support mental health through awareness of digital habits.
+
 💡 Impact Overview
 
 Smartphone addiction has become a widespread phenomenon, especially among young people. The project takes a step towards awareness, by providing a smart tool to analyze individual behavior and guide them toward healthy and balanced use of technology.
