@@ -1,1 +1,30 @@
-colab-notebooks
+📱 Mobile Device Usage and User Behavior
+
+This project aims to analyze mobile phone usage data to understand user behavior in terms of duration and frequency of app usage. The basic idea is to develop an intelligent model capable of classifying usage levels (light, moderate, heavy) based on actual data extracted from users' devices.
+
+🎯 Project Objectives
+
+- Analyze mobile phone usage patterns.
+- Categorize users into categories based on their digital behavior.
+- Raise awareness of smart device use and help reduce digital addiction.
+- Provide recommendations or warnings to users when they exceed healthy usage limits.
+
+🧠 Project Implementation Phases
+
+1. **Data Collection**: Real data representing user behavior was used in terms of app usage, session duration, number of opens, etc.
+2. **Data Preprocessing**: Data cleaning, handling missing values, and transforming some features.
+3. **Feature Selection**: To use the most influential features in the usage classification.
+4. **Training Machine Learning (ML) Models**: such as Decision Trees, Random Forest, and Logistic Regression.
+5. **Model Evaluation**: using metrics such as Accuracy, Confusion Matrix, and others.
+
+🛠️ Tools Used
+
+- Python
+- Google Colab
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+
+💡 Impact Overview
+
+Smartphone addiction has become a widespread phenomenon, especially among young people. The project takes a step towards awareness, by providing a smart tool to analyze individual behavior and guide them toward healthy and balanced use of technology.
